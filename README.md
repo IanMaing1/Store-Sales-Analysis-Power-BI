@@ -143,6 +143,4 @@ Key steps involved:
 
 - Dataset: [Kaggle - Retail Dataset](https://www.kaggle.com/datasets/manjeetsingh/retaildataset)
 
----
 
-Would you like help embedding your Power BI dashboard if you’re publishing it online? Or should I help generate a `README.md` file you can upload right away?
