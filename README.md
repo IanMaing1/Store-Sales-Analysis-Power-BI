@@ -1,7 +1,5 @@
 # Store-Sales-Analysis-Power-BI
 
-Awesome! Since you want to use a **GitHub-friendly `README.md` format** like your previous repo, here’s your **Retail Sales Analysis (Power BI)** documentation adapted to match that structure:
-
 ---
 
 # 🛒 Retail Sales Analysis (Power BI)
