@@ -1,8 +1,6 @@
 # Store-Sales-Analysis-Power-BI
 
----
 
-# 🛒 Retail Sales Analysis (Power BI)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
