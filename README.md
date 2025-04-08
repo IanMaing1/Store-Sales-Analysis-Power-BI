@@ -25,6 +25,8 @@ Awesome! Since you want to use a **GitHub-friendly `README.md` format** like you
 
 This project analyzes store-level retail sales performance using a dataset from Kaggle. The analysis explores sales trends, the effect of holidays, and the impact of external features such as temperature, fuel prices, CPI, and unemployment.
 
+![Store Sales Dashboard](https://github.com/IanMaing1/Store-Sales-Analysis-Power-BI/blob/main/Store%20Sales%20Analysis.png?raw=true)
+
 The dashboard was built in Power BI and aims to help stakeholders make informed business decisions.
 
 ![Retail Sales Dashboard](https://github.com/user-attachments/assets/your-dashboard-image-path.png) <!-- Replace with actual image URL -->
